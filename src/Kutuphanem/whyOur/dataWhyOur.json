@@ -1,0 +1,11 @@
+{
+  "title": "Neden Biz",
+  "desc": "Çanakkale'de doğaya saygılı ve estetik odaklı peyzaj çözümleri sunuyoruz. Projelendirmeden uygulamaya kadar her adımda kaliteli hizmet, sürdürülebilir yaklaşım ve müşteri memnuniyetini ön planda tutuyoruz. Doğayı güzelleştirmek için Detay Peyzaj yanınızda.",
+  "iconImg": "/images/Icon/question-mark.png",
+  "posts": [
+    { "img": "proje.jpg", "title": "Uzman Projelendirme" },
+    { "img": "uygulama.jpg", "title": "Kaliteli Uygulama" },
+    { "img": "bitki.jpg", "title": "Zengin Bitki Seçkisi" },
+    { "img": "bakim.jpg", "title": "Düzenli Bakım Hizmeti" }
+  ]
+}

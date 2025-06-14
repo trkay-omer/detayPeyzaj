@@ -1,0 +1,14 @@
+{
+  "kategori": [
+    {
+      "img": "/images/postImg/proje2.jpeg",
+      "title": "Projelerimiz",
+      "to": "/kategoriler"
+    },
+    {
+      "img": "/images/postImg/iletisim.jpeg",
+      "title": "İletişim",
+      "to": "/iletisim"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "dataAnaProduct": {
+    "yImg": "/images/anasayfa/mobil.png",
+    "xImg": "/images/anasayfa/kolaj.png",
+    "topSmallTitle": "| Doğaya hayat, mekânlara estetik katıyoruz!",
+    "titleFull": "Detay Peyzaj Anlayışı",
+    "titleItalic": "doğayla uyumlu",
+    "titleDev": "Peyzajda",
+    "titleDev2": "projeler yapıyoruz.",
+    "desc": "Peyzaj tasarımı, bitkilendirme, otomatik sulama sistemleri ve çevre düzenlemelerinde uzman kadromuzla kalıcı ve estetik çözümler sunuyoruz. Her detayda doğaya olan saygımızı yansıtıyoruz.",
+    "link": "/kategoriler",
+    "buttonText": "Projelerimizi İncele"
+  }
+}

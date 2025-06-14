@@ -1,0 +1,20 @@
+{
+  "faqs": [
+    {
+      "question": "Peyzaj projelerinde kalite ve güven nasıl sağlanır?",
+      "answer": "Peyzaj projelerinde kaliteyi sağlamak için uzman ekiplerle çalışılır ve proje süreci baştan sona planlı bir şekilde yönetilir. Kullanılan bitkiler, malzemeler ve ekipmanlar özenle seçilir; uygulama öncesi ve sonrası kontroller titizlikle yapılır."
+    },
+    {
+      "question": "Bitki seçimi ve çevreye uyum nasıl sağlanıyor?",
+      "answer": "Her proje için iklim koşullarına ve alanın özelliklerine uygun bitkiler tercih edilir. Yerli türler önceliklidir ve sürdürülebilirlik ilkesine göre çevreye duyarlı çözümler sunulur. Bu sayede hem estetik hem de uzun ömürlü bir peyzaj elde edilir."
+    },
+    {
+      "question": "Hangi hizmetleri sunuyorsunuz ve özel projeler yapılıyor mu?",
+      "answer": "Peyzaj tasarımı, uygulama, otomatik sulama sistemleri, rulo çim, ağaçlandırma ve bakım hizmetleri sunuyoruz. Ayrıca, kurumlara ve bireysel müşterilere özel tasarım ve projelendirme çözümleri geliştiriyoruz."
+    },
+    {
+      "question": "Bakım hizmetleri ve mevsimsel işlemler nasıl yönetiliyor?",
+      "answer": "Bitkilerin sağlıklı gelişimi için düzenli bakım hizmeti sunuyoruz. Mevsime uygun budama, gübreleme, ilaçlama ve sulama işlemleri profesyonel ekiplerimiz tarafından gerçekleştirilir. Müşterilerimize ayrıca bakım takvimi ve öneriler de sağlanmaktadır."
+    }
+  ]
+}

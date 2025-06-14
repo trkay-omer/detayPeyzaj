@@ -1,0 +1,81 @@
+.nameAndMarka {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  margin-bottom: 1rem;
+
+  .marka {
+    font-size: 0.9rem;
+    color: #104b73;
+    font-weight: 600;
+  }
+
+  .name {
+    font-weight: 800;
+    margin-bottom: 0.3rem;
+  }
+
+  .textHAvuz {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+    span {
+      font-weight: 900;
+      font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+      font-size: 0.9rem;
+      line-height: 1.5;
+      letter-spacing: 0;
+    }
+
+    p {
+      font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+      font-size: 0.9rem;
+      font-weight: normal;
+      line-height: 1.5;
+      letter-spacing: 0;
+    }
+  }
+
+  .buttons {
+    margin-top: 2rem;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+
+    .sepeteEkle {
+      display: flex;
+      gap: 0.8rem;
+      .btnSepet {
+        padding: 13px 15px 13px 15px;
+        border-radius: 10px;
+        background-color: rgb(17, 28, 69);
+        color: white;
+        font-size: 0.9rem;
+
+        &:hover {
+          opacity: 0.8;
+        }
+      }
+
+      .green {
+        background-color: darkgreen !important;
+      }
+    }
+  }
+
+  @media (max-width: 768px) {
+    .buttons {
+      .btnSepet {
+        font-size: 0.85rem;
+      }
+    }
+
+    .textHAvuz {
+      p,
+      span {
+        font-size: 0.85rem;
+      }
+    }
+  }
+}

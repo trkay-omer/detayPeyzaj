@@ -1,0 +1,21 @@
+{
+  "magazaIsmi": "Detay Peyzaj",
+  "adres": "İsmetpaşa, Büyük Hamam Sk. No:52/1, 17000 Merkez/Çanakkale",
+  "adres_linki": "https://maps.app.goo.gl/g7kfcXRNgP5g2tsh9",
+  "instagram": "@detay.peyzaj",
+  "instagram_linki": "https://www.instagram.com/detay.peyzaj/?hl=tr",
+  "telefon": "+90 544 477 20 44",
+  "telefon_linki": "tel:+905444772044",
+  "whatsapp_linki": "https://wa.me/905444772044",
+  "mail": "peyzajdetay@gmail.com",
+  "mail_linki": "mailto:peyzajdetay@gmail.com",
+  "footerDesc": "Detay Peyzaj, Çevreye duyarlı, estetik ve sürdürülebilir peyzaj çözümleri sunan uzman bir markadır. Doğayla uyumlu tasarımlarımızla yaşam alanlarınıza değer ve güzellik katıyoruz.",
+  "kategoriler": [
+    "Doğayla Uyumlu Tasarımlar",
+    "Estetik ve İşlevsel Yaşam Alanları",
+    "Sürdürülebilir & Özgün Projeler"
+  ],
+  "logo": "/images/logo/logo5.png",
+  "haftaIcı": "08.00 - 19.00",
+  "haftaSonu": "08.00 - 19.01"
+}
