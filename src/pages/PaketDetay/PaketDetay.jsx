@@ -35,7 +35,7 @@ const PaketDetay = () => {
   }, [id]);
 
   const handleImageClick = (image) => {
-    setSelectedImage(image.url); // Yeni resmi güncelle
+    setSelectedImage(image.filename); // Yeni resmi güncelle
   };
 
   // if (isLoading) {
