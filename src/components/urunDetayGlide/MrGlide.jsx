@@ -5,8 +5,6 @@ import ChevronRightIcon from "@mui/icons-material/ChevronRight";
 import ChevronLeftIcon from "@mui/icons-material/ChevronLeft";
 
 const MrGlide = ({ onImageClick, images }) => {
-  console.log(images);
-
   const [activeIndex, setActiveIndex] = useState(0);
 
   const handleImageClick = (index) => {
@@ -53,7 +51,7 @@ const MrGlide = ({ onImageClick, images }) => {
                     : "none",
               }}
             >
-              <img src={image.filename} alt={`slide-${index}`} />
+              <img src={image?.filename} alt={`slide-${index}`} />
             </li>
           ))}
         </ul>

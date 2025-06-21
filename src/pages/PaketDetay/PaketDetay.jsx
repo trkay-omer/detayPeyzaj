@@ -38,9 +38,11 @@ const PaketDetay = () => {
     setSelectedImage(image.filename); // Yeni resmi güncelle
   };
 
-  // if (isLoading) {
-  //   return <Loading />;
-  // }
+  if (isLoading) {
+    return <Loading />;
+  }
+
+  console.log(productDetail);
 
   return (
     <div className="projeDetay">
