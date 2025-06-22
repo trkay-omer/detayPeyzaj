@@ -17,7 +17,7 @@ const NameAndMarka = ({ marka, name, desc }) => {
 
       <div className="buttons">
         <div className="sepeteEkle">
-          <a href={data.addressUrl} target="_blank" className="btnSepet">
+          <a href={data.adres_linki} target="_blank" className="btnSepet">
             Yol Tarifi Al
           </a>
           <a
