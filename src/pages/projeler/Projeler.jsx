@@ -91,7 +91,7 @@ const Projeler = () => {
             />
 
             <Pagination
-              itemsPerPage={9}
+              itemsPerPage={12}
               items={projeler}
               setCurrentItems={setCurrentItems}
             />
